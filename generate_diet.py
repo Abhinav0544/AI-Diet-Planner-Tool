@@ -1,0 +1,1 @@
+from diet_prompt import generate_diet_plan
