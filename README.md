@@ -17,7 +17,7 @@ An interactive Streamlit web app that uses AI to generate personalized **7-day d
 ---
 
 ## Screenshots
-
+![Alt text](/Users/abhinavjaikumar/Desktop/Screenshot 2025-06-09 at 4.00.55 AM.png)
 # 🥗 AI Diet Planner
 
 An interactive Streamlit web app that uses AI to generate personalized **7-day diet plans** based on user inputs such as age, gender, weight, height, activity level, dietary preferences, health conditions, and goals.
